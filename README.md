@@ -8,7 +8,7 @@
     deno task start
     ```
 
-- In `./fresh-demo/main.ts`, add `port: Deno.env.get("PORT")` to the `start` function and listen to the custom port given the `.env` file
+- In `./main.ts`, add `port: Deno.env.get("PORT")` to the `start` function and listen to the custom port given the `.env` file
 
     ```typescript
     start(manifest, { plugins: [twindPlugin(twindConfig)], port: Deno.env.get("PORT")}, );
