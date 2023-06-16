@@ -1,5 +1,7 @@
 # deno-fresh-template
 
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://dash.zeabur.com/templates/WK9JCJ)
+
 - Follow the commands to bootstrap your [Deno](https://deno.land/) project with [Fresh](https://fresh.deno.dev/) framework:
 
     ``` shell
